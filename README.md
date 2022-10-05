@@ -10,13 +10,18 @@ How to making webhook:
 6-copy bot webhook
 
 ## Platforms
-- [Iphone]
-- [Android]
-- [Windows]
-- [Linux]
-- [Mac]
 
-Description
+- Windows
+- Linux
+- Mac
+- Iphone
+- Android
+
+
+## Description
+
 You can download discord at https://discord.com
+
+## Questions
 
 If you have any questions about this opinionated list, do not hesitate to contact me @Monica-Ml on Twitter or open an issue on GitHub.
