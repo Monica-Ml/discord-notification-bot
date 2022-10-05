@@ -1,4 +1,4 @@
-# discord-notification
+# Discord notification bot
 Send notification to discord app by webhook chanel
 
 How to making webhook:
@@ -8,3 +8,15 @@ How to making webhook:
 4-select webhook menu
 5-create a new bot
 6-copy bot webhook
+
+## Platforms
+- [Iphone]
+- [Android]
+- [Windows]
+- [Linux]
+- [Mac]
+
+Description
+You can download discord at https://discord.com
+
+If you have any questions about this opinionated list, do not hesitate to contact me @Monica-Ml on Twitter or open an issue on GitHub.
