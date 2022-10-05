@@ -24,4 +24,4 @@ You can download discord at https://discord.com
 
 ## Questions
 
-If you have any questions about this opinionated list, do not hesitate to contact me @Monica-Ml on Twitter or open an issue on GitHub.
+If you have any questions about this opinionated list, do not hesitate to contact me [@MonicaMl01](https://twitter.com/MonicaMl01) on Twitter or open an issue on GitHub.
