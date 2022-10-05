@@ -11,10 +11,10 @@ Send notification to discord app by webhook channel
 
 ## Platforms
 
-- Windows
+- Microsoft Windows
 - Linux
-- Mac
-- Iphone
+- macOS
+- iOS
 - Android
 
 
